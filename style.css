@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+}
+
+#todoList {
+	margin: 0 auto;
+}
+
+.title {
+	background-color: black;
+	color: white;
+	font-size: 16px;
+}
+.title th {
+	width: 100px;
+	height: 20px;
+	border: 0;
+}
+
+.todo {
+	font-size: 14px;
+	text-align: center;
+}
+
+.items_onmouseover {
+	background-color: grey;
+	font-weight: bold;
+}
